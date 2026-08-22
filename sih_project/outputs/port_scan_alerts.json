@@ -1,0 +1,10 @@
+[
+  {
+    "timestamp": "2026-08-22T21:26:30.489821",
+    "flow_id": "PS0014",
+    "threat_class": "PORT_SCAN",
+    "confidence_score": 0.5,
+    "evidence": "Source 192.168.1.212 contacted 15 unique ports within 5 seconds (threshold: 15)",
+    "source_ip": "192.168.1.212"
+  }
+]

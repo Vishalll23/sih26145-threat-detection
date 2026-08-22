@@ -1,0 +1,10 @@
+[
+  {
+    "timestamp": "2026-08-22T21:27:20.242622",
+    "flow_id": "DD0099",
+    "threat_class": "DDoS",
+    "confidence_score": 0.77,
+    "evidence": "100 packets to 10.0.0.47 within 1s from 100 unique source IPs (entropy=6.64, spoofing_likely=True)",
+    "target_ip": "10.0.0.47"
+  }
+]
