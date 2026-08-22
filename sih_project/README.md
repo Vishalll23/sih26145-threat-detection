@@ -50,15 +50,6 @@ All detectors output alerts in this standardized format:
 
 *(Note: field is `source_ip` for port scan alerts, `target_ip` for DDoS alerts — pipeline should normalize this.)*
 
-## Team
-
-| Member | Role |
-|---|---|
-| [Tumhara naam] | Traffic Ingest, Simulation & Network-Level Detection (Port Scan + DDoS) |
-| [Person 2] | DNS/DGA Detection + Encrypted Traffic (JA3) Detection |
-| [Person 3] | C2 Beaconing + Exfiltration Detection + Pipeline/Aggregator |
-| [Person 4] | Dashboard (Streamlit) |
-| [Person 5] | Documentation, Benchmarking & Presentation |
 
 ## Architecture
 
